@@ -1,3 +1,6 @@
+le projet se trouve dans le fichier web-text
+l'image se trouve dans le repertoir 
+https://drive.google.com/drive/folders/1cBHLLUsOAssoWIGp7yzE2ObdNOFp4afG?usp=drive_link
 Notation hierarchique:
     - Celle possendant l'ID Home comporte les ensemble d'image dans a affiche au menu
     
